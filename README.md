@@ -85,9 +85,10 @@ just fail with a connection error.
 
 ## Things to try in the chat box
 
-- `Met Dr. Priya Iyer today, discussed CardioPlus samples, she was very positive and wants follow-up literature.`
-- `show history for Dr. Priya Iyer`
-- `generate summary for Dr. Priya Iyer`
+-Met Dr. Ramesh Kumar today, discussed OncoBoost trial results, he was very positive and wants the Phase III report.
+-show history for Dr. Smith
+-generate summary for Dr. Smith
+
 
 ## Project layout
 
