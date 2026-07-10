@@ -85,9 +85,20 @@ just fail with a connection error.
 
 ## Things to try in the chat box
 
--Met Dr. Ramesh Kumar today, discussed OncoBoost trial results, he was very positive and wants the Phase III report.
--show history for Dr. Smith
--generate summary for Dr. Smith
+```text
+Met Dr. Ramesh Kumar today, discussed OncoBoost trial results, the sentiment was  positive and i share the Phase III report.
+```
+```text
+Edit Prompt: Sorry the name was Dr.Smith and the sentiment was negative
+```
+
+``` New text
+Show history for Dr. Smith
+```
+
+```text
+Generate summary for Dr. Smith
+
 
 
 ## Project layout
